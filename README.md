@@ -1,3 +1,3 @@
 # Base-Guild-Learner-Role
 Base Guild Learner Role
-progress day 5
+progress day 30
